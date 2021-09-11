@@ -1,6 +1,6 @@
 import React from 'react'
 import {MDXProvider} from '@mdx-js/react'
-import '../comps/Highlighter.css'
+import '../Components/Highlighter.css'
 
 const components = {}
 

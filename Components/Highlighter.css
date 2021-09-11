@@ -7,9 +7,14 @@
   Description: Minimal theme with careful typographic scale and highlighed bold.
 */
 /* http://retinart.net/typography/typographicscale/ */
+body {
+  margin: 5em;
+  background-color: #444;
+}
+
 html {
-  background: #fff;
-  color: #444;
+  background: #ffff;
+  color: #ffff;
   font: 18px/1.5 "Fira Sans OT", "Helvetica Neue", sans-serif;
 }
 
@@ -94,7 +99,7 @@ li ol {
 
 b,
 strong {
-  background: #ffff60;
+  background: #ffff;
   border-radius: 4px;
   font-weight: 500;
   color: #000;
