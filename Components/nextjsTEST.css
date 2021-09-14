@@ -51,9 +51,10 @@ h3 {
 }
 
 h4 {
-  color: #777;
+  color: rgb(255, 255, 255);
   font-size: 18px;
   line-height: 24px;
+  font-style: italic;
 }
 
 h5, h6 {
