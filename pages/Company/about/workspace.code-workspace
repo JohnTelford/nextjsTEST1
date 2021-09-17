@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "nextjsTEST1",
+			"path": "../../.."
+		}
+	],
+	"settings": {
+		"mdx-preview.preview.useVscodeMarkdownStyles": false
+	}
+}

@@ -212,8 +212,9 @@ figcaption {
 }
 
 blockquote {
-  color: #666;
+  color: #d7d7d7;
   margin: 0 18px 18px;
+  font-style: italic;
 }
 
 sup, sub, a.footnote {
