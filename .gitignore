@@ -1,5 +1,8 @@
 # dependencies
 /node_modules
+|.gitignore
+|/node_modules/caniuse-lite
+|/node_modules/@babel
 /.pnp
 .pnp.js
 
